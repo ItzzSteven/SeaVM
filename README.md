@@ -14,6 +14,7 @@ chmod +x get_build_tools.sh
 
 ```bash
 chmod +x build.sh
+```
 
 ```bash
 ./build.sh
